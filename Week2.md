@@ -6,10 +6,11 @@ At first I concentrated on the **html** and the **CSS** required to set up the f
 
 Next I turned to the functions.  With the aid of a couple of websites I managed to write code for a `calculateTotal` function in Javascript that performs a calculation using numbers inserted by the user.  However, the calculation did not produce the correct answer.
 
-I talked with classmates who were also having difficulty with this function.  They could not produce _any_ data for a total.  A DAC7 student by the name of Alex, had been working with them for nearly an hour.  When he saw that I could get a result he then worked on my code to achieve a correct total.  He modified my function by inserting __parseFloat__ into the script.  Then my formula did produce the correct result.  He also worked on an error message to show up if someone pushes the ####Calculate button without inserting data.  But, that is not yet working.
+I talked with classmates who were also having difficulty with this function.  They could not produce _any_ data for a total.  A DAC7 student by the name of Alex, had been working with them for nearly an hour.  When he saw that I could get a result he then worked on my code to achieve a correct total.  He modified my function by inserting __parseFloat__ into the script.  Then my formula did produce the correct result.  He also worked on an error message to show up if someone pushes the **Calculate** button without inserting data.  But, that is not yet working.
 
 At http://www.w3resource.com/javascript/functions/parsefloat-function.php I learned that:
 >The **parseFloat** is used to get a floating value from a string.  **parseFloat** is a top-level function and is not associated with any object.
+
 And, from https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/parseFloat
 >The **parseFloat()** function parses an argument and returns a floating point number.
 
