@@ -1,4 +1,4 @@
-###Fourth Week Journal Entry
+### Fourth Week Journal Entry
 
 The task for `Week 4` involved utilizing the script supplied in the task instructions to create an app to demonstrate the implementation of menus in GUI programming.
 The javascript supplied to us contained code for a menu bar that we installed into a subfile that we called mainmenu.js.  It included the labels 'edit', 'view', 'window' and 'help', with submenus for each.
