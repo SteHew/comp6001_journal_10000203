@@ -10,4 +10,4 @@ Then I turned to creating my app to change background colour. &nbsp; Many other 
 
 I struggled to make the buttons perform the required tasks to __Confirm__ and __Reset__ the colours. &nbsp; I reconfigured the javascript functions several times, and worked on the CSS and HTML but could not quite acheive that goal. &nbsp; Howevever, I provided clear instructions to the user what to do at each step. &nbsp; And, I enabled the user to change the background colour to any one of about 10 options.
 
-The other task I completed this week was an small app that incorporated a dragging function. &nbsp; That did not work at first, but Jeff helped me refine my code the complete that task.
+The other task I completed this week was an small app that incorporated a dragging function. &nbsp; That did not work at first, but Jeff helped me refine my code to complete that task.
