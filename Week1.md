@@ -8,7 +8,7 @@ Next I worked through the Markdown tutorials learning how to use:
 * _Italics_
 * **BOLD** font
 * ####### Headers
-* [Inline links](http://www.markdowntutorial.com/lesson/3/)
+* ![Inline links](http://www.markdowntutorial.com/lesson/3/)
 * Backticks for `coding format`
 * Block quotes with a _caret_
 * Soft breaks  
